@@ -7,4 +7,5 @@ Linha adicionada diretamente no site!!!
 # quinta feira 23/09/2021 aina estamos na pandemia
 revisitei esse repositório hoje :)
 
-# Sábado 25/02/2023 a pandemia acabou!!!!
+# Sábado 25/02/2023 a pandemia acabou!!!
+
